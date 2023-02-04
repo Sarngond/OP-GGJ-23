@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_P.umap",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_BlockOut.umap",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_Sound.umap",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_BP_Caroline.umap",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_BP_Nate.umap",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_FX.umap",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_Geo.umap",
+				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_Lighting.umap"
+			]
+		}
+	]
+}

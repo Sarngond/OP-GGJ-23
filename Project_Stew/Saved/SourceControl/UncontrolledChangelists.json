@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ROG Primary/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/ROG Primary/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_Lighting.umap",
+				"C:/Users/ROG Primary/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Models/Root.uasset",
+				"C:/Users/ROG Primary/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_Geo.umap",
+				"C:/Users/ROG Primary/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Models/Root_Inst.uasset",
+				"C:/Users/ROG Primary/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Models/Roots_Geo_v1.uasset",
+				"C:/Users/ROG Primary/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_P.umap",
 				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_P.umap",
 				"C:/Users/nateb/Documents/GitHub/OP-GGJ-23/Project_Stew/Content/Stew/Levels/Map1/Map1_BlockOut.umap",
